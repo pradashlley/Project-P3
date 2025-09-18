@@ -11,10 +11,10 @@ The ultimate goal of this project is to create a predictive model that accuratel
 ## Data Understanding
 Our target in this project is to predict h1n1_vaccine and the seasonal_vaccine, it is a binary variables: 0 = No; 1 = Yes.There are a lot of features with 36 columns. The first column respondent_id is a unique and random identifier. The remaining 35 features are described below. In this project I'm going to put the focus on h1n1_vaccine.
 
-![Distribution](Images/p3_im1.png)
+![Distribution](Images/p3im1.png)
 ## Analysis and Results/Recommendations
 
-
+In this dataset we have more people not vaccined for the two vaccines. Most of 78% are not vaccined for h1n1_vaccine and 53% for the seasonale_vaccine
 
 ![Distribution](Images/p3im2.png)
 
