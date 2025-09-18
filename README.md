@@ -10,9 +10,10 @@ In public health, understanding vaccination patterns is crucial for developing e
 The ultimate goal of this project is to create a predictive model that accurately forecasts an individual's vaccination status. This model can serve as a valuable tool for future public health initiatives, allowing for the proactive identification of groups less likely to get vaccinated. Instead of a one-size-fits-all approach, a predictive model enables a tailored response, allocating resources more efficiently to engage and educate hesitant or underserved communities. By transforming survey data into actionable insights, this project supports evidence-based policymaking, ultimately contributing to a more resilient public health system capable of achieving higher rates of herd immunity.
 ## Data Understanding
 Our target in this project is to predict h1n1_vaccine and the seasonal_vaccine, it is a binary variables: 0 = No; 1 = Yes.There are a lot of features with 36 columns. The first column respondent_id is a unique and random identifier. The remaining 35 features are described below. In this project I'm going to put the focus on h1n1_vaccine
+![Distribution](Images/p3 im1.png)
 ## Analysis and Results/Recommendations
 
-![Distribution](Images/imgp11.png)
+
 
 ![Distribution](Images/imgp12.png)
 
