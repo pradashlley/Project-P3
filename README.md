@@ -16,7 +16,7 @@ Our target in this project is to predict h1n1_vaccine and the seasonal_vaccine, 
 
 
 
-![Distribution](Images/imgp12.png)
+![Distribution](Images/p3im2.png)
 
 ![Distribution](Images/imgp13.png)
 
