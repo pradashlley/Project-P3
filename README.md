@@ -11,7 +11,7 @@ The ultimate goal of this project is to create a predictive model that accuratel
 ## Data Understanding
 Our target in this project is to predict h1n1_vaccine and the seasonal_vaccine, it is a binary variables: 0 = No; 1 = Yes.There are a lot of features with 36 columns. The first column respondent_id is a unique and random identifier. The remaining 35 features are described below. In this project I'm going to put the focus on h1n1_vaccine.
 
-![Distribution](Images/p3 im1.png)
+![Distribution](Images/p3im1.png)
 ## Analysis and Results/Recommendations
 
 
@@ -25,7 +25,7 @@ Our target in this project is to predict h1n1_vaccine and the seasonal_vaccine, 
 2. Encourage commercial flights instead of personal flights
 3. Favor device with few serious accidents in the database.
 ## Conlusion and Next Steps
-In this project, We've learned a lot about Aviation Accident and How to approach the Aviation sector and the risks for our company. In the Analysis of the data we've learned that is most careful to Avoid flights in adverse weather, Favor device with few serious accidents in the database.
+This project successfully developed a predictive model to determine whether individuals received the H1N1 vaccine, leveraging a comprehensive dataset of demographic, behavioral, and attitudinal information from the National 2009 H1N1 Flu Survey. Beyond simply predicting vaccination status, the project's findings can help identify key population segments that are less likely to be vaccinated.
 
 Next Step
 Avoid investing in aircraft most often involved in personal accidents.
