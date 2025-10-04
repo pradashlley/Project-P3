@@ -21,14 +21,8 @@ In this dataset we have more people not vaccined for the two vaccines. Most of 7
 ![Distribution](Images/imgp13.png)
 
 ![Distribution](Images/imgp14.png)
-1. Contrary to expectations, many accidents occured in favorable weather conditions VMC Strengthen training for pilots in all weather conditions
-2. Encourage commercial flights instead of personal flights
-3. Favor device with few serious accidents in the database.
+
 ## Conlusion and Next Steps
-This project successfully developed a predictive model to determine whether individuals received the H1N1 vaccine, leveraging a comprehensive dataset of demographic, behavioral, and attitudinal information from the National 2009 H1N1 Flu Survey. Beyond simply predicting vaccination status, the project's findings can help identify key population segments that are less likely to be vaccinated.
+This project successfully developed and evaluated a predictive model for the intention to get vaccinated against H1N1, leveraging a rich dataset on attitudes, knowledge, and demographic characteristics. The use of Logistic Regression within a pipeline not only achieved a stable AUC-ROC score but, more importantly, helped dissect the mechanisms behind vaccination decision-making. The results clearly demonstrate that factors such as opinions on vaccine efficacy or perceived personal risk are often more powerful predictors of the intention to vaccinate than demographic factors alone. This interpretability, derived from the analysis of the model's coefficients, provides strong empirical evidence for designing targeted, evidence-based public health interventions.
 
-Next Step
-Avoid investing in aircraft most often involved in personal accidents.
-
-Focus on safe aircraft during cruise approach
 ## Repo Structure
